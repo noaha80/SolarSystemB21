@@ -11,6 +11,10 @@ public class SolarSystem {
         exosias.color="grey";
         exosias.temp="-54k";
 
+        planet1 trao=new planet1();
+        trao.color="blue";
+        trao.temp="10kkv";
+        
 
 
     }
