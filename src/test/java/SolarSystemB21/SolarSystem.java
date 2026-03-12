@@ -11,6 +11,9 @@ public class SolarSystem {
         exosias.color="grey";
         exosias.temp="-54k";
 
+        Planet2 xaro = new Planet2();
+        xaro.color="blue";
+        xaro.temp="456 celcius";
 
 
     }
